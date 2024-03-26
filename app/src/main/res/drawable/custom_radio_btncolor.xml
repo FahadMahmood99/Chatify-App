@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:state_checked="true">
+    <shape android:shape="rectangle">
+        <solid android:color="#FF4A4A4A"/> <!-- Change color as needed -->
+        <!-- You can adjust other properties like size here -->
+    </shape>
+</item>
+<item android:state_checked="false">
+    <shape android:shape="rectangle">
+        <solid android:color="#FF4A4A4A"/> <!-- Change color as needed -->
+        <!-- You can adjust other properties like size here -->
+    </shape>
+</item>
+</selector>
